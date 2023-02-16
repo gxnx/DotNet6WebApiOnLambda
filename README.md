@@ -1,7 +1,7 @@
 
 # .NET 6  Web API Template for AWS Lambda
 
-This project is created for those who want to deploy their .NET 6 Core Web API to AWS Lambda. 
+This project is created for those who want to deploy their .NET 6 Core Web API to AWS Lambda easily. 
 
 
 ## Installation
