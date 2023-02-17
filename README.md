@@ -81,7 +81,7 @@ You need to put this to your AWS Lambda's Environment vairables to enable Swagge
 
 Key | Value
 ------------- | -------------
-ASPNETCORE_ENVIRONMENT  | Deployment
+ASPNETCORE_ENVIRONMENT  | Development
 
 
 
